@@ -49,7 +49,7 @@ The dataset used in this project is the "Brain Tumor Data Set." It contains MRI 
 
 ## Model Architecture
 
-The CNN model used for brain tumor detection consists of several layers, including convolutional layers, max-pooling layers, fully connected layers, batch normalization, and dropout layers. The model architecture can be found in the `brain_tumor_detection.py` script.
+The CNN model used for brain tumor detection consists of several layers, including convolutional layers, max-pooling layers, fully connected layers, batch normalization, and dropout layers.
 
 ## Training
 
