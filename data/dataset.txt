@@ -1,0 +1,2 @@
+The dataset used to train the model can be downloaded from:
+https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset/download?datasetVersionNumber=1
