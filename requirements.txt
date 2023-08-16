@@ -1,9 +1,3 @@
-The provided code is an example of building and training a neural network using the Keras framework with TensorFlow backend to classify brain tumor images into two classes: "tumor" and "no tumor". Let's break down the requirements:
-
-1. **Importing Libraries:**
-   - `tensorflow`: TensorFlow library for building and training neural networks.
-   - `pandas`: Used for data manipulation (though not used explicitly in this code).
-   - `keras`: Keras is a high-level API for building and training neural networks. It's now part of TensorFlow.
-
-2. **ImageDataGenerator:**
-   An instance of `ImageDataGenerator` is created to perform real-time data augmentation and preprocessing on the images. It rescales the pixel values, splits the data into training and validation subsets, and applies zoom augmentation.
+tensorflow==2.6.0
+pandas==1.3.3
+keras==2.6.0
