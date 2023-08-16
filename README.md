@@ -19,7 +19,7 @@ This project aims to build a brain tumor detection model using deep learning tec
 
 ## Dataset
 
-The dataset used in this project is the "Brain Tumor Data Set." It contains MRI images of brains with and without tumors. The dataset is divided into training and validation subsets. It's available [here](/path/to/your/dataset).
+The dataset used in this project is the "Brain Tumor Data Set." It contains MRI images of brains with and without tumors. The dataset is divided into training and validation subsets. It's available [here]([/path/to/your/dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset)).
 
 ## Installation
 
